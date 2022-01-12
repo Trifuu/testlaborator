@@ -1,3 +1,4 @@
-laborator
-
-ana are mere si se duce la piata
+int suma(int a, int b)
+{
+    return a+b;
+}
